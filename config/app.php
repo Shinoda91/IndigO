@@ -165,7 +165,6 @@ return [
         'Roumen\Feed\FeedServiceProvider',
         'Cviebrock\EloquentSluggable\SluggableServiceProvider',
         'Sofa\Eloquence\ServiceProvider',
-        'Maatwebsite\Excel\ExcelServiceProvider',
 
         /*
          * Application Service Providers...
@@ -228,7 +227,6 @@ return [
         'Flash'     => 'Laracasts\Flash\Flash',
         'Image'     => 'Intervention\Image\Facades\Image',
         'Feed'      => 'Roumen\Feed\Feed',
-        'Excel'     => 'Maatwebsite\Excel\Facades\Excel',
 
     ],
 
